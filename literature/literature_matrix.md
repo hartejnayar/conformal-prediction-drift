@@ -1,4 +1,4 @@
-# Project Apex — Literature Matrix (Day 4)
+# Project Apex — Literature Matrix 
 
 **Working research direction:** *Efficiency vs. Reliability: A Comparative Analysis of Conformal Prediction Methods Under Covariate and Concept Drift* (provisional; not yet a validated novelty claim).
 
