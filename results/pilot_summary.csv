@@ -1,0 +1,3 @@
+method,post_coverage_mean,post_coverage_sd,baseline_width_mean,post_width_mean,recovery_count,recovery_time_mean,width_inflation_pct_mean,infinite_width_fraction_mean
+ACI (unbounded),0.8877333333333333,0.001382429423555203,3.3389034058522555,inf,5,132.2,inf,0.28053333333333336
+Fixed split conformal,0.37533333333333335,0.019680785892167343,3.343614130789657,3.343614130789656,0,,0.0,0.0
